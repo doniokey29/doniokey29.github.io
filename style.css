@@ -1,0 +1,19 @@
+[class="1"]{
+    color:#87CEEB;
+}
+
+body {
+    background-color: rgb(113, 150, 201);
+}
+
+h1 {
+    font-family: monospace;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: monospace;
+    font-weight: 900;
+    font-size: 25px;
+}
